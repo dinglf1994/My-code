@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="C++\class_2.h" open="0" top="0" tabpos="4">
+		<Cursor position="60" topLine="0" />
+	</File>
+	<File name="C++\error_1.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="104" topLine="6" />
+	</File>
+	<File name="C++\template_1.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="736" topLine="1" />
+	</File>
+	<File name="C++\template_class_1.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="21" topLine="21" />
+	</File>
+	<File name="C++\template_class_friend_1.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1389" topLine="39" />
+	</File>
+</CodeBlocks_layout_file>

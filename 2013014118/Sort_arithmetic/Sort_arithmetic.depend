@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1462588091 source:f:\codeblocks\2013014118\sort_arithmetic\main\bubble_sort.cpp
+	"main.h"
+
+1462283801 f:\codeblocks\2013014118\sort_arithmetic\main\main.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1462435427 source:f:\codeblocks\2013014118\sort_arithmetic\main\qsort.cpp
+	<iostream>
+	"Qsort.h"
+
+1462781206 f:\codeblocks\2013014118\sort_arithmetic\main\qsort.h
+	<stdlib.h>
+	<iostream>
+
+1462436495 source:f:\codeblocks\2013014118\sort_arithmetic\main\insertsort.cpp
+	"InsertSort.h"
+
+1462588305 f:\codeblocks\2013014118\sort_arithmetic\main\insertsort.h
+	<iostream>
+	<stdlib.h>
+
+1462524263 source:f:\codeblocks\2013014118\sort_arithmetic\main\quicksort.cpp
+	"QuickSort.h"
+
+1462590933 f:\codeblocks\2013014118\sort_arithmetic\main\quicksort.h
+	<iostream>
+	<stdlib.h>
+
+1462599655 source:f:\codeblocks\2013014118\sort_arithmetic\main\heapsort.cpp
+
+1462599465 f:\codeblocks\2013014118\sort_arithmetic\main\heapsort.h
+	<iostream>
+	<stdlib.h>
+
+1462603915 source:f:\codeblocks\2013014118\sort_arithmetic\main\shellsort.cpp
+	"ShellSort.h"
+
+1462604101 f:\codeblocks\2013014118\sort_arithmetic\main\shellsort.h
+	"HeapSort.h"
+
+1462605522 source:f:\codeblocks\2013014118\sort_arithmetic\main\mergesort.cpp
+	"MergeSort.h"
+
+1462606967 f:\codeblocks\2013014118\sort_arithmetic\main\mergesort.h
+	"HeapSort.h"
+

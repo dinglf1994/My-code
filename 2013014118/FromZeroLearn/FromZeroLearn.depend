@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1461573659 source:f:\codeblocks\2013014118\fromzerolearn\c++\error_1.cpp
+	<iostream>
+
+1461574502 source:f:\codeblocks\2013014118\fromzerolearn\c++\template_1.cpp
+	<iostream>
+
+1461585213 source:f:\codeblocks\2013014118\fromzerolearn\c++\template_class_1.cpp
+	<iostream>
+	<cstdlib>
+
+1461585326 f:\codeblocks\2013014118\fromzerolearn\c++\class_2.h
+	<iostream>
+
+1461587273 source:f:\codeblocks\2013014118\fromzerolearn\c++\template_class_friend_1.cpp
+	"class_2.h"
+	<cmath>
+
